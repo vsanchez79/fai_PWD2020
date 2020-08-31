@@ -1,3 +1,3 @@
-<?php echo "Hola probando repo";
+<?php echo "Hola probando repositorio";
 
 ?>
